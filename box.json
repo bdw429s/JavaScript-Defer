@@ -1,0 +1,20 @@
+{
+    "name":"JavaScript Defer",
+    "version":"2.0.0.0000",
+    "author":"Brad Wood",
+    "location":"https://github.com/bdw429s/JavaScript-Defer/",
+    "homepage":"https://github.com/bdw429s/JavaScript-Defer/",
+    "documentation":"https://github.com/bdw429s/JavaScript-Defer/",
+    "repository":{
+        "type":"Git",
+        "url":"https://github.com/bdw429s/JavaScript-Defer/"
+    },
+    "bugs":"https://github.com/bdw429s/JavaScript-Defer/",
+    "slug":"javascript-defer",
+    "shortDescription":"A nifty interceptor to move JS blocks to the bottom of your page",
+    "description":"When this module is activated, it will take JavaScript blocks and move them to the bottom of the page.  This can be handy for performance since browser will not continue loading the page until JavaScript files are downloaded and parsed.  This may cause issues if you use inline calls to document.write().",
+    "instructions":"Drop in the module folder, or run 'install javascript-defer' from CommandBox",
+    "changelog":" Version 2.0, converted to a module",
+    "type":"modules",
+    "projectURL":"https://github.com/bdw429s/JavaScript-Defer/"
+}
